@@ -14,7 +14,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "nimbomx\\package-test\\PackageTestServiceProvider"
+                "Nimbomx\\PackageTest\\PackageTestServiceProvider"
             ]
         }
     },
