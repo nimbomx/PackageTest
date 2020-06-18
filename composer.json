@@ -2,7 +2,7 @@
     "name": "nimbomx/package-test",
     "description": "A package test for Laravel",
     "minimum-stability": "dev",
-    "license":"GPL",
+    "license":"MIT",
     "prefer-stable":true,
     "authors": [
         {
