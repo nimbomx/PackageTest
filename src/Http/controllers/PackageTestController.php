@@ -3,7 +3,6 @@
     namespace Nimbomx\PackageTest\Http\Controllers;
     use App\Http\Controllers\Controller;
     use Illuminate\Http\Request;
-    //use MyVendor\Contactform\Models\ContactForm;
 
     class PackageTestController extends Controller {
 
