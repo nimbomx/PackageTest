@@ -1,0 +1,16 @@
+{
+    "name": "nimbomx/package-test",
+    "description": "A package test for Laravel",
+    "authors": [
+        {
+            "name": "ernesto hernandez",
+            "email": "ernesto@nimbo.mx"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "nimbomx\\package-test\\": "src/"
+        }
+    }
+}
