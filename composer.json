@@ -1,6 +1,7 @@
 {
     "name": "nimbomx/package-test",
     "description": "A package test for Laravel",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "ernesto hernandez",
