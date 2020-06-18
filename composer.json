@@ -11,6 +11,13 @@
         }
     ],
     "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "nimbomx\\package-test\\PackageTestController"
+            ]
+        }
+    },
     "autoload": {
         "psr-4": {
             "Nimbomx\\PackageTest\\": "src/"
