@@ -1,6 +1,7 @@
 <?php
-    // MyVendor\contactform\src\routes\web.php
-    Route::get('contact', function(){
-        return 'Hello from the contact form package';
+    // Nimbomx\PackageTest\src\routes\web.php
+
+    Route::group(['namespace' => 'Nimbomx\PackageTest\Http\Controllers', 'middleware' => ['web']], function(){
+        Route::get('test', 'PackageTestController@index');
     });
     ?>
